@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8"> 
-    <title>Taylor, Mike, and Aaron's Bootstrap Site</title>
+    <title>Mikes's Bootstrap Site</title>
 	<!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   </head>
@@ -17,20 +17,18 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Dick's Fishing Dot Com</a>
+      <a class="navbar-brand" href="#">Average Art</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Drop a Line <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">This is art. <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#">Catches</a></li>
-            <li><a href="#">Photos</a></li>
-            <li><a href="#">Products</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Tell Me About The Maze</a></li>
+            <li><a href="#">Art.</a></li>
+            <li><a href="#">Store.</a></li>
+            <li><a href="#">Contact.</a></li>
           </ul>
         </li>
       </ul>
@@ -39,20 +37,17 @@
 </nav>
 
 <div class="jumbotron text-center">
-  <h1>Fish With Dick's</h1>
-  <p>Teach a man to fish...</p>
+  <h1>Average Art</h1>
   
 
 <div class="btn-group">
   <button type="button" class="btn btn-default btn-lg dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Services <span class="caret"></span>
+    #ThisIsArt. <span class="caret"></span>
   </button>
   <ul class="dropdown-menu">
-  	<li><span class="glyphicon glyphicon-tree-conifer" aria-hidden="true"></span></li>
-    <li><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span></li>
-    <li><span class="glyphicon glyphicon-resize-small" aria-hidden="true"></span></li>
-    <li><span class="glyphicon glyphicon-glass" aria-hidden="true"></span></li>
-    <li><span class="glyphicon glyphicon-fire" aria-hidden="true"></span></li>
+      <li><a href="#">Art.</a></li>
+      <li><a href="#">Store.</a></li>
+      <li><a href="#">Contact.</a></li>
   </ul>
 </div>
 
@@ -61,28 +56,9 @@
 <div class="row">
   <div class="col-xs-6 col-md-3">
     <a href="#" class="thumbnail">
-      <img src="http://pngimg.com/uploads/fish/fish_PNG10538.png" alt="...">
+      <img src="" alt="...">
     </a>
-  </div>
-   
-  <div class="col-xs-6 col-md-3">
-    <a href="#" class="thumbnail">
-      <img src="http://bestanimations.com/Animals/Fish/oceanfish/ocean-underwater-fish-animated-gif-picture-2.gif" alt="...">
-    </a>
-  </div>
-  
-   <div class="col-xs-6 col-md-3">
-    <a href="#" class="thumbnail">
-      <img src="http://dnr2.maryland.gov/fisheries/fishfacts/spot.gif" alt="...">
-    </a>
-  </div>
-  
-   <div class="col-xs-6 col-md-3">
-    <a href="#" class="thumbnail">
-      <img src=" http://www.sharegif.com/wp-content/uploads/2013/10/08/fish-gif-9.gif" alt="...">
-    </a>
-  </div>
-  
+  </div> 
 </div>
 
 <nav class="navbar navbar-default navbar-fixed-bottom">
@@ -95,38 +71,18 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Dick's Fishing Dot Com</a>
+      <a class="navbar-brand" href="#">Average Art</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Fish<span class="sr-only">(current)</span></a></li>
-        <li><a href="#">More Fish</a></li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Full of Fish <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">This is art. <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#">Large Fish</a></li>
-            <li><a href="#">Wet Fish</a></li>
-            <li><a href="#">Old Fish</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Quantum Fish</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">The Fish at the End of Your Life</a></li>
-          </ul>
-        </li>
-      </ul>
-      
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Dark Fish Tales</a></li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">My Favorite Fish<span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#">Dead Fish</a></li>
-            <li><a href="#">Smart Fish</a></li>
-            <li><a href="#">Are Spider Fish Real?</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Feeding Fish to Your Dog</a></li>
+            <li><a href="#">Art.</a></li>
+            <li><a href="#">Store.</a></li>
+            <li><a href="#">Contact.</a></li>
           </ul>
         </li>
       </ul>
