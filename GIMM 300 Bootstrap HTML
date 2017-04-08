@@ -27,9 +27,9 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">This is art. <span class="caret"></span></a>
           <ul class="dropdown-menu">
-                  <li><a href="http://54.202.89.54/wordpress/">Art.</a></li>
-      <li><a href="http://54.202.89.54/42/">Store.</a></li>
-            <li><a href="#">Contact.</a></li>
+                  <li><a href="http://54.202.89.54/wordpress/">Wordpress.</a></li>
+      <li><a href="http://54.202.89.54/42/">Games.</a></li>
+            <li><a href="#">Resume.</a></li>
           </ul>
         </li>
       </ul>
@@ -46,9 +46,9 @@
     #ThisIsArt. <span class="caret"></span>
   </button>
   <ul class="dropdown-menu">
-      <li><a href="http://54.202.89.54/wordpress/">Art.</a></li>
-      <li><a href="http://54.202.89.54/42/">Store.</a></li>
-      <li><a href="#">Contact.</a></li>
+      <li><a href="http://54.202.89.54/wordpress/">Wordpress.</a></li>
+      <li><a href="http://54.202.89.54/42/">Games.</a></li>
+      <li><a href="#">Resume.</a></li>
   </ul>
 </div>
 
@@ -107,9 +107,9 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">This is art. <span class="caret"></span></a>
           <ul class="dropdown-menu">
-                  <li><a href="http://54.202.89.54/wordpress/">Art.</a></li>
-      <li><a href="http://54.202.89.54/42/">Store.</a></li>
-            <li><a href="#">Contact.</a></li>
+                  <li><a href="http://54.202.89.54/wordpress/">Wordpress.</a></li>
+      <li><a href="http://54.202.89.54/42/">Games.</a></li>
+            <li><a href="#">Resume.</a></li>
           </ul>
         </li>
       </ul>
