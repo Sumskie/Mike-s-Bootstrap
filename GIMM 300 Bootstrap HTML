@@ -46,8 +46,8 @@
     #ThisIsArt. <span class="caret"></span>
   </button>
   <ul class="dropdown-menu">
-      <li><a href="#">Art.</a></li>
-      <li><a href="#">Store.</a></li>
+      <li><a href="http://54.202.89.54/wordpress/">Art.</a></li>
+      <li><a href="http://54.202.89.54/42/">Store.</a></li>
       <li><a href="#">Contact.</a></li>
   </ul>
 </div>
